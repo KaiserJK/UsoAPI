@@ -1,0 +1,40 @@
+body{
+
+    display: flex;
+    align-items: center;
+    height: 100hv;
+
+    background:no-repeat fixed center url(assets/BACK.png);
+    
+}
+
+.container {
+    width: 300px;
+    margin: auto;   
+}
+
+
+input{
+    width: 90%;
+    border-radius: 8px;
+    padding: 8px 15px;
+    border: 1px solid white;
+    height: 40px;
+    
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    background: #fff;
+    border-radius: 8px;
+    border: #fff;
+    width: 100%;
+    padding: 8px 15px;
+    margin: 5px 0;
+}
+
+
